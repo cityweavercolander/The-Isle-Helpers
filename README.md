@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=74&pause=240&color=2E8B57&center=true&vCenter=true&width=1580&lines=THE+ISLE+HACK+2026;ESP+•+AIMBOT+•+SPEED;DOMINATE+THE+PRIMORDIAL+ISLAND" alt="The Isle Hack 2026" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a82a8f0a-c7d6-4899-b257-9183193180fd" />
 </div>
 
 <br/>
